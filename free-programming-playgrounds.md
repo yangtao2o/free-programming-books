@@ -8,6 +8,8 @@
 * [FlexBox](#flexbox)
 * [Go](#go)
 * [Haskell](#haskell)
+* [Ionic](#ionic)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
 * [.Net](#dotnet)
@@ -17,10 +19,12 @@
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
+* [React](#react)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scala](#scala)
 * [SQL](#sql)
+* [Svelte](#svelte)
 * [Swift](#swift)
 * [TypeScript](#typescript)
 
@@ -28,6 +32,7 @@
 ### Angular
 
 * [Plunker](http://plnkr.co)
+* [StackBlitz](https://stackblitz.com/fork/angular)
 
 
 ### ClojureScript
@@ -68,10 +73,20 @@
 * [Try Haskell](https://www.tryhaskell.org)
 
 
+### Ionic
+
+* [StackBlitz](https://stackblitz.com/fork/ionic)
+
+
+### Java
+
+* [repl.it](https://repl.it) (_including a separate Java/Swing_)
+
+
 ### JavaScript
 
 * [CodePen](https://codepen.io)
-* [CodeSandbox.io](https://codesandbox.io) (_React_)
+* [CodeSandbox.io](https://codesandbox.io)
 * [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
@@ -121,9 +136,20 @@
 * [R-Fiddle](http://www.r-fiddle.org)
 
 
+### React
+
+* [CodeSandbox.io](https://codesandbox.io)
+* [StackBlitz](https://stackblitz.com/fork/react)
+
+
 ### Ruby
 
 * [Codepad](http://codepad.org)
+
+
+### RxJS
+
+* [StackBlitz](https://stackblitz.com/fork/rxjs)
 
 
 ### Rust
@@ -144,6 +170,11 @@
 * [SQLFiddle](http://sqlfiddle.com)
 
 
+### Svelte
+
+* [StackBlitz](https://stackblitz.com/fork/svelte)
+
+
 ### Swift
 
 * [Online Swift Playground](http://online.swiftplayground.run)
@@ -152,3 +183,5 @@
 ### TypeScript
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
+* [StackBlitz](https://stackblitz.com/fork/typescript)
+
